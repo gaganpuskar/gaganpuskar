@@ -11,7 +11,7 @@
 * 🚀 **Founder & Lead Developer:** **CODEXON HUB** (*[codexonhub.in](https://codexonhub.in)*) — Building web applications, digital tools, and IT solutions.
 * 💻 **Primary Tech:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JavaScript (ES6+), Java, Python
 * 💼 **Open To:** Full-Stack / MERN Stack Developer Internships & Roles
-* 📍 **Location:** Bareilly / Gurgaon, India
+* 📍 **Location:** Delhi NCR, India
 
 ---
 
